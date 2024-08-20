@@ -59,7 +59,7 @@ hide:
         - **Author(s)** =	Name of entity(ies) authoring the resource
         - **Primary Language** =	Language in which the resource was originally published or made available
         - **Keyword(s)** =	Keywords or tags used to describe the resource
-        - **Version Date* =	Version date for the most recently published or broadcast resource
+        - **Version Date** =	Version date for the most recently published or broadcast resource
 
     === "Access info fields"
 
