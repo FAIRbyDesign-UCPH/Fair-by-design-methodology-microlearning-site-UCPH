@@ -16,7 +16,7 @@ hide:
 
 !!! quote ""
 
-    Publishing is the art of working on a creative idea and turning it into a masterpiece​ - *Unknown*
+    Publishing is the art of working on a creative idea and turning it into a masterpiece - *Unknown*
 
 ??? warning "Publishing closed FAIR materials"
 
@@ -135,5 +135,5 @@ hide:
 </div>
 
 
-​​<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%205%20%E2%80%93%20Publish/16-Publishing%20Preparations/16-Publishing%20Preparations/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Publish stage....</a>
+<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%205%20%E2%80%93%20Publish/16-Publishing%20Preparations/16-Publishing%20Preparations/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Publish stage....</a>
 <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/415-publish/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Publish stage....</a>

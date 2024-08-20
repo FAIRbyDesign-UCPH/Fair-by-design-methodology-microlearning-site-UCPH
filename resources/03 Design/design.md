@@ -18,7 +18,7 @@ hide:
 
 !!! quote ""
 
-    Design is intelligence made visible - *Alina Wheeler​*
+    Design is intelligence made visible - *Alina Wheeler*
 
 ## Time to brainstorm
 
@@ -42,7 +42,7 @@ hide:
   </div>
 </div>
 
-​
+
 ## Structure is everything
 
 <div class="grid cards" markdown>
@@ -106,7 +106,7 @@ graph LR
 
     The <a href='https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20–%20Design/07-Facilitation/07-Facilitation/'> facilitation guide </a> should help prepare for the actual training. If you don't want to develop your own, use something that is already available such as the [TRIPLE project TRAINING TOOLKIT](https://project.gotriple.eu/project-deliverables/triple-training-toolkit/).
 
-??? info "Don't worry, we got you covered with templates​"
+??? info "Don't worry, we got you covered with templates"
 
     All templates are readily available for use in the specialised [templates repository](https://github.com/FAIR-by-Design-Methodology/templates). See the detailed training on how to use it step by step.
 

@@ -17,7 +17,7 @@ hide:
 
 !!! quote ""
 
-    Before anything else, preparation is the key to success! -- *Alexander Graham Bell​*
+    Before anything else, preparation is the key to success! -- *Alexander Graham Bell*
 
 ## First things first. What is FAIR?
 
@@ -165,7 +165,7 @@ hide:
 
     ??? info "Be SMART"
 
-        Objectives should be specific, ​measurable, ​attainable, ​relevant and ​time-bound​.
+        Objectives should be specific, measurable, attainable, relevant and time-bound.
 
     ??? hint "Use Blooms Taxonomy"
     
