@@ -83,10 +83,14 @@ hide:
 <div class="card w-100 mb-3">
   <div class="row no-gutters">
     <div class="col-md-4" style="width: 18rem;">
-      <img class="card-img" src="../../attachments/Zenodo_logo.png" alt="Zenodo logo"/>
-      <p class="card-text"><small class="text-muted">
-                <a href="https://upload.wikimedia.org/wikipedia/commons/5/58/Zenodo_logo.png">Zenodo logo</a> by <a href="https://twitter.com">a Twitter user</a> from <a href="https://commons.m.wikimedia.org/wiki/File:Zenodo_logo.png">Wikimedia</a> licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Creative Commons Attribution-Share Alike 4.0 International license</a>. </small>
-                </p>
+      <div class="card-body">
+        <figure>
+          <img class="card-img" src="../../attachments/Zenodo_logo.png" alt="Zenodo logo"/>
+          <figcaption class="figcaption-in-card">
+            <a href="https://upload.wikimedia.org/wikipedia/commons/5/58/Zenodo_logo.png">Zenodo logo</a> by <a href="https://twitter.com">a Twitter user</a> from <a href="https://commons.m.wikimedia.org/wiki/File:Zenodo_logo.png">Wikimedia</a> licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Creative Commons Attribution-Share Alike 4.0 International license</a>.
+          </figcaption>
+        </figure>
+      </div>
     </div>
     <div class="col-md-8" style="width: 36rem;">
       <div class="card-body">
@@ -114,10 +118,14 @@ hide:
 <div class="card w-100 mb-3">
   <div class="row no-gutters">
     <div class="col-md-4" style="width: 18rem;">
-      <img class="card-img" src="../../attachments/Moodle-logo.svg.png" alt="Moodle logo"/>
-      <p class="card-text"><small class="text-muted">
-                <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Moodle-logo.svg/320px-Moodle-logo.svg.png">Moodle logo</a> by <a href="https://moodle.org/">Moodle.org</a> from <a href="https://en.m.wikipedia.org/wiki/File:Moodle-logo.svg">Wikipedia</a> licensed under the <a href="https://en.wikipedia.org/wiki/en:GNU_General_Public_License">GNU General Public License</a>. </small>
-                </p>
+      <div class="card-body">
+        <figure>
+          <img class="card-img" src="../../attachments/Moodle-logo.svg.png" alt="Moodle logo"/>
+          <figcaption class="figcaption-in-card">
+            <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Moodle-logo.svg/320px-Moodle-logo.svg.png">Moodle logo</a> by <a href="https://moodle.org/">Moodle.org</a> from <a href="https://en.m.wikipedia.org/wiki/File:Moodle-logo.svg">Wikipedia</a> licensed under the <a href="https://en.wikipedia.org/wiki/en:GNU_General_Public_License">GNU General Public License</a>.
+          </figcaption>
+        </figure>
+      </div>
     </div>
     <div class="col-md-8" style="width: 36rem;">
       <div class="card-body">

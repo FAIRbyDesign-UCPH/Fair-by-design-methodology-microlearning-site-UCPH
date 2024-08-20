@@ -138,10 +138,14 @@ hide:
 <div class="card w-100 mb-3">
   <div class="row no-gutters">
     <div class="col-md-4" style="width: 18rem;">
-      <img class="card-img" src="../../attachments/universal-access-6602642_640.png" alt="Accessibility logo"/>
-      <p class="card-text"><small class="text-muted">
-                Image by <a href="https://pixabay.com/users/inspire-studio-22128832/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6602642">J S</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6602642">Pixabay</a></small>
-                </p>
+      <div class="card-body">
+        <figure>
+          <img class="card-img" src="../../attachments/universal-access-6602642_640.png" alt="Accessibility logo"/>
+          <figcaption class="figcaption-in-card">
+            <a href="https://pixabay.com/vectors/universal-access-human-icon-6602642/">"Universal Access Human"</a> by <a href="https://pixabay.com/users/inspire-studio-22128832/">J S</a> from <a href="https://pixabay.com/">Pixabay</a>
+          </figcaption>
+        </figure>
+      </div>
     </div>
     <div class="col-md-8" style="width: 36rem;">
       <div class="card-body">
