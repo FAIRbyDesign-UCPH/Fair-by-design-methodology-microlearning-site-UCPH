@@ -111,7 +111,7 @@ hide:
             <div class="card-body">
             <h2 class="card-title">07 Continuous Improvement</h2>
             <p class="card-text">1. Create a list of potential improvements. </br></br> 2. Choose a set of improvements to be implemented and start a new release cycle.</br></p>
-            <a href="https://fair-by-design-methodology.github.io/microlearning/latest/06%20Verify/verify/" class="btn btn-dark stretched-link">Go to stage</a>
+            <a href="https://fair-by-design-methodology.github.io/microlearning/latest/07%20Continuous%20Improvement/ci/" class="btn btn-dark stretched-link">Go to stage</a>
             </div>
         </div>
         <div class="col-sm-4"></div>
