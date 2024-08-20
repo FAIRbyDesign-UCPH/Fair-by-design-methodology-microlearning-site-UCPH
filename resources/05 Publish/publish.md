@@ -136,7 +136,7 @@ hide:
             <p class="card-text">2. Add assessments such as quizzes or assignments. </p>
             <p class="card-text">3. Setup feedback gathering.</p>
             <p class="card-text">4. Define recognition mechanism such as open digital badges for successful completion.</p>
-            <a href="https://docs.moodle.org/403/en/Table_of_Contents#Managing_a_Moodle_course" class="btn btn-primary stretched-link">Managing a Moodle course</a>
+            <a href="https://docs.moodle.org/en/Managing_a_Moodle_course" class="btn btn-primary stretched-link">Managing a Moodle course</a>
       </div>
     </div>
   </div>
