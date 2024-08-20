@@ -165,7 +165,7 @@ hide:
 
     ??? info "Be SMART"
 
-        Objectives should be specific, measurable, attainable, relevant and time-bound.
+        Objectives should be **s**pecific, **m**easurable, **a**ttainable, **r**elevant and **t**ime-bound.
 
     ??? hint "Use Blooms Taxonomy"
     
