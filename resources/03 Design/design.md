@@ -126,7 +126,7 @@ graph LR
 - <i class="fa fa-heartbeat" aria-hidden="true"></i> __4. Hook__ ... why is the content important
 - <i class="fa fa-user-secret" aria-hidden="true"></i> __5. Instruct__ ... watch how I do it
 - <i class="fa fa-code-fork" aria-hidden="true"></i> __6. Practise__ ... you help me do it, I'll watch you do it
-- <i class="fa fa-hand-o-right" aria-hidden="true"></i> __7. Wrap-Up__ ... foster retention and reinforcement
+- <i class="fa-solid fa-hand-point-right" aria-hidden="true"></i> __7. Wrap-Up__ ... foster retention and reinforcement
 - <i class="fa fa-question-circle" aria-hidden="true"></i> __8. Evaluate__ ... monitor progress
 - <i class="fa fa-info-circle" aria-hidden="true"></i> __9. Reflect__ ... how did it go?
 
