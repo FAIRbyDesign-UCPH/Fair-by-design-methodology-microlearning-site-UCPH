@@ -129,7 +129,7 @@ hide:
     </div>
     <div class="col-md-8" style="width: 36rem;">
       <div class="card-body">
-            <h2 class="card-title">To LMS</h2>
+            <h2 class="card-title">To Moodle LMS</h2>
             <p class="card-text">Generate the final versions from your editable content and add it to a course on the <a href="https://learning.skills4eosc.eu/">Skills4EOSC Learning Platform</a> to make it available for learners.</p>
             <p class="card-text">0. Provide the course metadata.</p>
             <p class="card-text">1. Add the learning content in general non-editable file formats.</p>

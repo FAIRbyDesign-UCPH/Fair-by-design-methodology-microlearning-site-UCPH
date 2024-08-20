@@ -24,7 +24,7 @@ hide:
 
     Have someone who has not participated in the development of the learning materials review the final work. This will guarantee a review free of cognitive bias.
 
-??? success "Don't forget to QA the LMS"
+??? success "Don't forget to QA the Learning Management System (LMS)"
 
     The reviewer should play the role of a new learner in the LMS and check everything from the learner perspective.
 
