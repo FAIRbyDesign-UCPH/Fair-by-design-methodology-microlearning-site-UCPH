@@ -1282,3 +1282,12 @@ fieldset:disabled a.btn {
 .md-typeset details {
   font-size: 16px
 }
+
+.figcaption-in-card {
+  color: #6c757d !important;
+  font-size: small;
+}
+
+.figcaption-in-card:last-child {
+  margin-bottom: 0;
+}
