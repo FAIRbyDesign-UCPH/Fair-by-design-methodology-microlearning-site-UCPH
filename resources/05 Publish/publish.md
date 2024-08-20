@@ -96,9 +96,11 @@ hide:
       <div class="card-body">
             <h2 class="card-title">To Zenodo</h2>
             <p class="card-text">Deposit your editable learning materials set to make available to other designers and instructors.</p>
-            <p class="card-text">1. Create an archive of all the files in your logical hierarchical structure.</p>
-            <p class="card-text">2. Create a new Zenodo record with the archive.</p>
-            <p class="card-text">3. Provide a rich metadata description and link to any related resources.</p>
+            <ol class="card-text">
+              <li>Create an archive of all the files in your logical hierarchical structure.</li>
+              <li>Create a new Zenodo record with the archive.</li>
+              <li>Provide a rich metadata description and link to any related resources.</li>
+            </ol>
             <a href="https://help.zenodo.org/docs/deposit/create-new-upload/" class="btn btn-primary stretched-link">How to deposit in Zenodo</a>
       </div>
     </div>
@@ -131,11 +133,13 @@ hide:
       <div class="card-body">
             <h2 class="card-title">To Moodle LMS</h2>
             <p class="card-text">Generate the final versions from your editable content and add it to a course on the <a href="https://learning.skills4eosc.eu/">Skills4EOSC Learning Platform</a> to make it available for learners.</p>
-            <p class="card-text">0. Provide the course metadata.</p>
-            <p class="card-text">1. Add the learning content in general non-editable file formats.</p>
-            <p class="card-text">2. Add assessments such as quizzes or assignments. </p>
-            <p class="card-text">3. Setup feedback gathering.</p>
-            <p class="card-text">4. Define recognition mechanism such as open digital badges for successful completion.</p>
+            <ol class="card-text" start="0">
+              <li>Provide the course metadata.</li>
+              <li>Add the learning content in general non-editable file formats.</li>
+              <li>Add assessments such as quizzes or assignments. </li>
+              <li>Setup feedback gathering.</li>
+              <li>Define recognition mechanism such as open digital badges for successful completion.</li>
+            </ol>
             <a href="https://docs.moodle.org/en/Managing_a_Moodle_course" class="btn btn-primary stretched-link">Managing a Moodle course</a>
       </div>
     </div>
