@@ -25,13 +25,15 @@ hide:
                 <i class="fa fa-download fa-3x" aria-hidden="true"></i>
                 <h2 class="card-title">Gather</h2>
                 <p class="card-text">Gather feedback from all available internal & external sources.</p>
-                <p class="card-text">Potential sources:</br>
-                    - Feedback form </br>
-                    - QA recommendations </br>
-                    - self-reflection after training </br>
-                    - Survey </br>
-                    - Direct mail contact </br>
-                    - Other means of communication </br>
+                <p class="card-text">Potential sources:
+                <ul>
+                    <li>Feedback form</li>
+                    <li>QA recommendations </li>
+                    <li>self-reflection after training </li>
+                    <li>Survey </li>
+                    <li>Direct mail contact </li>
+                    <li>Other means of communication </li>
+                </ul>
                 </p>
             </div>
         </div>

@@ -98,7 +98,8 @@ hide:
         Provide the name of the license and a URL to the license. 
     
     === "Examples"
-        > Examples are taken from [Best Practices for Creative Commons attributions - how to attribute works you reuse under a Creative Commons license](https://www.newmediarights.org/guide/how_to/creative_commons/best_practices_creative_commons_attributions) submitted by [New Media Rights](https://www.newmediarights.org/) available under a [CC BY-NC 3.0 US DEED](https://creativecommons.org/licenses/by-nc/3.0/us/)
+
+        > Examples are taken from [Best Practices for Creative Commons attributions - how to attribute works you reuse under a Creative Commons license](https://www.newmediarights.org/guide/how_to/creative_commons/best_practices_creative_commons_attributions) submitted by [New Media Rights](https://www.newmediarights.org/) available under a [CC BY-NC 3.0 US DEED](https://creativecommons.org/licenses/by-nc/3.0/us/).
 
         - Webpage/Blog - Title (with link to original work), author (or username) (with link to author's website), and license (with link).
 
@@ -145,8 +146,8 @@ hide:
     <div class="col-md-8" style="width: 36rem;">
       <div class="card-body">
             <h2 class="card-title">Standards</h2>
-            <p class="card-text">There are several standards that govern the rules on level of accessibility. Three conformance levels exist, you should aim for AA which is the middle one. </p>
-            <p class="card-text">Most commonly used is the <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">W3C Web Content Accessibility Guidelines (WCAG) standard version 2.1</a>.</p>
+            <p class="card-text">There are several standards that govern the rules on level of accessibility.</p>
+            <p class="card-text">Most commonly used is the <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">W3C Web Content Accessibility Guidelines (WCAG) standard version 2.1</a>. Three conformance levels exist, you should aim for AA which is the middle one.</p>
             <p class="card-text">PDF document accessibility is measured with a separate technical specification <a href="https://pdfua.foundation/en/why-pdf-ua/">PDF/UA (Universal Accessibility)</a>.</p>
             <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20%E2%80%93%20Produce/11-Accessibility/11-Checking_accessibility/" class="btn btn-primary stretched-link">Learn more</a>
       </div>
@@ -187,9 +188,9 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :material-quality-high: __QA Self-assessment__ to check if everything is as it should be
-- :material-check-all: __Quantitative__ are all required elements produced
-- :material-puzzle-check-outline: __Qualitative__ do all learning units provide materials to reach the learning objectives with different modalities 
+- :material-quality-high: __QA Self-assessment:__ Check if everything is as it should be.
+- :material-check-all: __Quantitative:__ Are all required elements produced?
+- :material-puzzle-check-outline: __Qualitative:__ Do all learning units provide materials to reach the learning objectives with different modalities?
 
 </div>
 

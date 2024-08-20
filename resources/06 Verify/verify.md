@@ -30,7 +30,7 @@ hide:
 
 ??? tip "Go through the QA checklists"
 
-    In Skills4EOSC T2.4 has developed a number of QA checklists that you and your external reviewer need to go through so that you can ensure high-quality learning materials.
+    In Skills4EOSC T2.4 has developed a number of QA checklists that you and your external reviewer need to go through so that you can ensure high-quality learning materials (see [Sánchez et al. 2023](https://doi.org/10.5281/zenodo.8305482)).
 
 
 ## FAIR or not FAIR, that is the question...
@@ -41,7 +41,7 @@ hide:
 
     ---
 
-    Use the FAIR-by-Design methodology QA checklist to check if you have followed the most important aspects of the methodology and managed to produce FAIR learning materials.
+    Use the [FAIR-by-Design methodology QA checklist](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/#fair-by-design-methodology-qa-checklist) to check if you have followed the most important aspects of the methodology and managed to produce FAIR learning materials.
 
     The questions marked as essential achieve bare minimum FAIRness.
 
@@ -49,23 +49,23 @@ hide:
 
         ??? abstract "Findable"
 
-            Is the complete learning resource (including instructors info) registered or indexed in at least one searchable repository? Is it in a FAIR repository?</br></br>
-            Is metadata for the resource provided in both human- and machine-readable format (e.g JSON, XMLor YAML?
+            - Is the complete learning resource (including instructors info) registered or indexed in at least one searchable repository? Is it in a FAIR repository?
+            - Is metadata for the resource provided in both human- and machine-readable format (e.g JSON, XMLor YAML)?
 
         ??? success "Accessible"
 
-            Has an accessibility checker tool been utilised to improve the accessibility of all learning resource files (PDF, HTML, video, etc.)? </br></br>
-            Are access rules (authentication & authorisation) implemented for the learning resource?
+            - Has an accessibility checker tool been utilised to improve the accessibility of all learning resource files (PDF, HTML, video, etc.)?
+            - Are access rules (authentication & authorisation) implemented for the learning resource?
         
         ??? info "Interoperable"
 
-            Is the RDA minimal (or domain specific) metadata schema used for the learning material description?</br></br>
-            Is the resource available in open file formats which are tool agnostic and compatible with a wide variety of existing software?
+            - Is the RDA minimal (or domain specific) metadata schema used for the learning material description?
+            - Is the resource available in open file formats which are tool agnostic and compatible with a wide variety of existing software?
         
         ??? danger "Resuable"
 
-            Is there clear attribution for all reused resources with compatible licenses? </br></br>
-            Has the learning resource been made available for use by defining a permissable license or policy information that allows derivations?
+            - Is there clear attribution for all reused resources with compatible licenses?
+            - Has the learning resource been made available for use by defining a permissable license or policy information that allows derivations?
         
     === "Optional requirements"
 

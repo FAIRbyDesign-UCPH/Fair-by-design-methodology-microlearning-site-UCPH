@@ -70,7 +70,8 @@ Reusable materials can be found anywhere. These are just some examples:
 
 ??? Danger "Respect the licenses, to be respected!"
 
-        Materials with non-permissable licenses can be used for inspiration only. Materials with permissable licenses should be reused based on the license rules.
+    - Materials with non-permissable licenses can be used for inspiration only.
+    - Materials with permissable licenses should be reused based on the license rules.
 
 
 

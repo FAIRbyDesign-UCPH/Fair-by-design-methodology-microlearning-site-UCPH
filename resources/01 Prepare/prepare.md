@@ -48,7 +48,10 @@ hide:
 </div>
 
 ## Adopt a metadata schema
-  <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects/#rda-minimal-metadata-for-learning-resources" class="btn btn-primary btn-lg btn-block">The RDA Minimal Metadata Set for Learning Resources</a>
+
+If you are not using a discipline specific metadata schema, then, to ensure that your learning materials are appropriately described using a common approach, you should adopt the:
+
+<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects/#rda-minimal-metadata-for-learning-resources" class="btn btn-primary btn-lg btn-block">RDA Minimal Metadata Set for Learning Resources</a>
 
 !!! info ""
 
@@ -80,9 +83,8 @@ hide:
 > [Hoebelheinrich, Nancy J, Biernacka, Katarzyna, Brazas, Michelle, Castro, Leyla Jael, Fiore, Nicola, Hellström, Margareta, Lazzeri, Emma, Leenarts, Ellen, Martinez Lavanchy, Paula Maria, Newbold, Elizabeth, Nurnberger, Amy, Plomp, Esther, Vaira, Lucia, van Gelder, Celia W G, & Whyte, Angus. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073](https://doi.org/10.15497/RDA00073)
 </small>
 
-??? info "More on FAIR learning objects definition"
+??? info "Learn more about FAIR learning objects"
 
-    Learn more about: 
     - [FAIR instructional design skills](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/#fair-instructional-design-skills)
     - [FAIR guiding principles](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/#fair-guiding-principles)
     - [FAIR learning objects](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/#fair-learning-objects)
@@ -97,7 +99,7 @@ hide:
       <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
         <h5 class="card-title">Step 1</h5>
-        <p class="card-text">What are your desired effects, i.e. learning outcomes...</p>
+        <p class="card-text">What are your desired effects, i.e. learning outcomes?<p>
       </div>
     </div>
   </div>
@@ -107,7 +109,7 @@ hide:
       <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
         <h5 class="card-title">Step 2</h5>
-        <p class="card-text">How are you going to assess their achievement....</p>
+        <p class="card-text">How are you going to assess the learners' achievements?</p>
       </div>
     </div>
   </div>
@@ -117,14 +119,14 @@ hide:
       <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
         <h5 class="card-title">Step 3</h5>
-        <p class="card-text">How should you structure the material to reach them...</p>
+        <p class="card-text">How should you structure the material to reach them?</p>
       </div>
     </div>
   </div>
 
 </div>
 
-??? info "More on backward learning"
+??? info "Learn more about the backward learning process"
 
     [Steps of the backward learning process](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#backward-instructional-design-process)
 
@@ -171,7 +173,7 @@ hide:
     
         Formulate the objectives as actionable verb + observable knowledge, skill, attitude, behavior or ability.
 
-    [:octicons-arrow-right-24: See more](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#defining-learning-objectives)
+    [:octicons-arrow-right-24: Read more](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#defining-learning-objectives)
 
 </div>
 
