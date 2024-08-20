@@ -99,7 +99,7 @@ If you are not using a discipline specific metadata schema, then, to ensure that
       <div class="card-header"><i class="fa fa-fast-backward" aria-hidden="true"></i> Think backward</div>
       <div class="card-body">
         <h5 class="card-title">Step 1</h5>
-        <p class="card-text">What are your desired effects, i.e. learning outcomes?<p>
+        <p class="card-text">What are your desired effects, i.e. learning outcomes?</p>
       </div>
     </div>
   </div>
