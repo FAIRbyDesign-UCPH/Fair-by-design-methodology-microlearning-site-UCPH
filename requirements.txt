@@ -30,3 +30,4 @@ six==1.16.0
 urllib3==2.2.1
 verspec==0.1.0
 watchdog==4.0.0
+mkdocs-open-in-new-tab==1.0.5
