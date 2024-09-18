@@ -91,7 +91,7 @@ This training has no certification or any recognition mechanism included.
 
 ## DOI
 
-[https://doi.org/10.5072/zenodo.1234567](https://doi.org/10.5072/zenodo.1234567)
+[https://doi.org/10.5281/zenodo.11548062](https://doi.org/10.5281/zenodo.11548062)
 
 ## Accessibility Mission
 
