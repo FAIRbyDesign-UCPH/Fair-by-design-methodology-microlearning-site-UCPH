@@ -1,21 +1,21 @@
 ---
 # RDA learning materials metadata minimal set
-title: "FAIR-by-Design Microlearning"
+title: "FAIR-by-Design Microlearning at the University of Copenhagen"
 author: 
-    - Skills4EOSC T2.3
+    - Lorna Wildgaard and Ben Derksen adapted materials from Skills4EOSC T2.3
 tags: 
     - FAIR
     - FAIR learning materials
     - FAIR-by-Design methodology
     - Practical implementation 
 
-abstract: "Short how to guide that helps project members follow the stages of the FAIR-by-Design methodology without any specific choice on tools and formats."
+abstract: "Short how to guide that helps researchers and teachers at the University of Copenhagen implement the FAIR-by-Design methodology without any specific choice on tools and formats."
 primaryLanguage: "EN"
 license: "CC-BY-4.0"
-versionDate: "2024-04-01"
+versionDate: "2026-04-01"
 urlToResource: "https://doi.org/10.5281/zenodo.11548062"
 resourceURLType: "URL"
-targetGroup: "Skills4EOSC project members"
+targetGroup: "Researchers and teachers at UCPH"
 learningResourceType: "HTML"
 learningOutcome: 
     - Structure FAIR learning materials
@@ -34,7 +34,7 @@ hide:
   <div class="row row-xl p-xl-5">
     <div class="col col-xl p-xl-5">
         <div class="p-5 mx-2 bg-dark text-white">
-            <p> Welcome to the FAIR-by-Design microlearning menu. </p>
+            <p> Welcome to the FAIR-by-Design microlearning at UCPH menu. </p>
             <p>Below are the main stages of the FAIR-by-Design Methodology that will help guide you on your journey of creating FAIR learning materials.</p>
         </div>
     </div>
@@ -122,7 +122,7 @@ hide:
     <div class="col col-xl p-xl-5">
         <div class="p-5 mx-2 bg-dark text-white">
             <p>Review each stage and the essential steps that it includes.</p> 
-            <p>If you have any questions at any stage on your journey do not hesitate to <a href="mailto:sonja.filiposka@finki.ukim.mk">contact the FAIR-by-Design methodology team</a>.</p>
+            <p>If you have any questions at any stage on your journey do not hesitate to <a href="mailto:lowi@kb.dk">contact the FAIR-by-Design methodology team at UCPH </a>.</p>
             <p></br>May all your materials be FAIR!</p> 
         </div>
     </div>
