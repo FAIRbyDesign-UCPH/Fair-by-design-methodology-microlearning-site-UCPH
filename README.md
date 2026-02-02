@@ -6,8 +6,8 @@ This repository hosts a short microlearning unit on how to practically implement
 
 This microlearning how to guide is a supplemental material that should be used as fast how to reference guide. For more in-dept information on the FAIR-by-Design methodology go to:
 
-- the [FAIR-by-Design Methodology for Learning Materials Development](https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/).
-- the [FAIR-by-Design Methodology Training of Trainers Learning materials](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/)
+- the [FAIR-by-Design Methodology for Learning Materials Development at UCPH](https://fairbydesign-ucph.github.io/FAIR-By-Design_Book-UCPH/3%20-%20Learning%20materials%20description%20and%20modelling/30-description/).
+- the [FAIR-by-Design Methodology Training of Trainers at UCPH Learning materials](https://fairbydesign-ucph.github.io/FAIR-by-Design-Training-of-Trainers-UCPH/latest/)
 
 All content is available under the [CC-BY-4.0 license](./LICENSE).
 
