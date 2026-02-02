@@ -42,7 +42,7 @@ hide:
 
 ## Location
 
-- online: [https://fair-by-design-methodology.github.io/microlearning/latest/](https://fair-by-design-methodology.github.io/microlearning/latest/)
+- online: [https://fairbydesign-ucph.github.io/Fair-by-design-methodology-microlearning-site-UCPH/latest/](https://fairbydesign-ucph.github.io/Fair-by-design-methodology-microlearning-site-UCPH/latest/)
 
 ## Training Description
 
@@ -80,10 +80,14 @@ This training has no certification or any recognition mechanism included.
 
 - Sonja Filiposka, Dominique Green, Anastas Mishev, Vojdan Kjorveziroski, Andrea Corleto, Eleornora Napolitano, Gabriella Paolini, Sara di Giorgio, Joanna Janik, Luca Schirru, Arnaud Gingold, Christine Chardosek, Irakleitos Souyioultzoglou, Carolin Leister, Emma Lazzeri
 
+## Adapted by
+
+- Lorna Wildgaard & Benjamin Derksen
+
 
 ## Contact information
 
-- For more information please contact the T2.3 FAIR-by-Design Methodology Task Leader Sonja Filiposka using [sonja.filiposka@finki.ukim.mk](mailto:sonja.filiposka@finki.ukim.mk).
+- For more information about FAIR-by-Design at the University of Copenhagen please contact Lorna Wildgaard, lowi@kb.dk
 
 ## License
 
