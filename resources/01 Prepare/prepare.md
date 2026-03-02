@@ -171,7 +171,8 @@ If you are not using a discipline specific metadata schema, then, to ensure that
     
         Formulate the objectives as actionable verb + observable knowledge, skill, attitude, behavior or ability and align with the appropriate SOLO level
 
-    [:octicons-arrow-right-24: Read more](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#defining-learning-objectives)
+    [:octicons-arrow-right-24: Read more](https://fairbydesign-ucph.github.io/FAIR-by-Design-Training-of-Trainers-UCPH/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/#defining-learning-objectives)
+
 
 </div>
 
