@@ -72,7 +72,7 @@ graph LR
   res --> f[Feedback];
   f --> fq[<b>Survey</b><br><a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Feedback/training_feedback_template.md'>Git MD Format</a><br><a href='https://github.com/FAIR-by-Design-Methodology/microlearning/blob/main/resources/attachments/Root/feedback/Training%20Evaluation%20Form.docx'>Office format</a>];
   res --> s1[opt 01 Section Name];
-  res --> s[<b>Syllabus</b><br><a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/syllabus.md'>Git MD format</a><br><a href='https://github.com/FAIR-by-Design-Methodology/microlearning/blob/main/resources/attachments/Root/syllabus.docx'>Office format</a>];
+  res --> s[<b>Syllabus</b><br><a href='https://github.com/FAIRbyDesign-UCPH/templates/blob/main/resources/syllabus.md'>Git MD format</a><br><a href='https://github.com/FAIR-by-Design-Methodology/microlearning/blob/main/resources/attachments/Root/syllabus.docx'>Office format</a>];
   res --> fg[<b>Facilitator Guide</b> <br> <a href='https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/template_facilitator_guide.md'>Git MD format</a><br><a href='https://github.com/FAIR-by-Design-Methodology/microlearning/blob/main/resources/attachments/Root/Training%20Facilitator%20Guide.docx'>Office format</a>];
 
   s1 --> m1[opt 01 Module Name];
