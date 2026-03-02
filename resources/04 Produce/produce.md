@@ -25,7 +25,7 @@ hide:
 
 ??? info "Collaborative environment for team work"
 
-    Choose an environment for producing the learning material that will enable multiple people to work on the same material at one. Two examples are workplace or GitHub (find out more <a href='https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20–%20Produce/08-Development%20Tools/08-Introduction%20to%20Markdown%20and%20Git/'>here</a>). Replicate the folder tree in the environment and start using the provided templates to generate the content.
+    Choose an environment for producing the learning material that will enable multiple people to work on the same material at one. Two examples are workplace or GitHub (find out more <a href='https://fairbydesign-ucph.github.io/FAIR-by-Design-Training-of-Trainers-UCPH/latest/Stage%204%20%E2%80%93%20Produce/08-Development%20Tools/08-Introduction%20to%20Markdown%20and%20Git/'>here</a>). Replicate the folder tree in the environment and start using the provided templates to generate the content.
 
 ??? tip "Granular versioning for easy rollback"
 
@@ -199,4 +199,4 @@ hide:
 </div>
 
 <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20%E2%80%93%20Produce/08-Development%20Tools/08-Introduction%20to%20Markdown%20and%20Git/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Produce stage....</a>
-<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/414-produce/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Produce stage....</a>
+<a href="https://fairbydesign-ucph.github.io/FAIR-By-Design_Book-UCPH/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/414-produce/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Produce stage....</a>
