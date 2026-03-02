@@ -41,7 +41,7 @@ hide:
 
     ---
 
-    Use the [FAIR-by-Design methodology QA checklist](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/#fair-by-design-methodology-qa-checklist) to check if you have followed the most important aspects of the methodology and managed to produce FAIR learning materials.
+    Use the [FAIR-by-Design methodology QA checklist](https://fairbydesign-ucph.github.io/FAIR-by-Design-Training-of-Trainers-UCPH/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/#fair-by-design-methodology-qa-checklist) to check if you have followed the most important aspects of the methodology and managed to produce FAIR learning materials.
 
     The questions marked as essential achieve bare minimum FAIRness.
 
@@ -88,7 +88,7 @@ hide:
         - <i class="fa fa-check-square-o" aria-hidden="true"></i> Does the resource adopt an open community approach regarding its quality and reachability?
         - <i class="fa fa-check-square-o" aria-hidden="true"></i> Has the learning resource been checked by a third party regarding its learning experience quality?
 
-    [:octicons-arrow-right-24: Perform a final QA check](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/#self-check-qa)
+    [:octicons-arrow-right-24: Perform a final QA check](https://fairbydesign-ucph.github.io/FAIR-by-Design-Training-of-Trainers-UCPH/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/#self-check-qa)
 
 </div>
 
@@ -100,6 +100,6 @@ hide:
     Ensure that you actively and regularly gather feedback from both perspectives: the learners and the instructors.
 
 
-<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Verify stage....</a>
-<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/416-verify/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Verify stage....</a>
+<a href="https://fairbydesign-ucph.github.io/FAIR-by-Design-Training-of-Trainers-UCPH/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Verify stage....</a>
+<a href="https://fairbydesign-ucph.github.io/FAIR-By-Design_Book-UCPH/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/416-verify/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Verify stage....</a>
 
