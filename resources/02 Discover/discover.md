@@ -79,5 +79,5 @@ Reusable materials can be found anywhere. These are just some examples:
 
 Variation is a key factor for students' engagement in learning activities. Therefore, you should use learning materials that activate students in different ways (textual/visual/auditory indput, by writing, kinesthetically, etc.).
 
-<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%202%20%E2%80%93%20Discover/03-Existing%20learning%20materials/03-Existing%20learning%20materials/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Discover stage....</a>
-<a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/412-discover/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Discover stage....</a>
+<a href="https://fairbydesign-ucph.github.io/FAIR-by-Design-Training-of-Trainers-UCPH/latest/Stage%201%20%E2%80%93%20Prepare/01-FAIR%20skills%20%26%20principles/01-FAIR%20skills%20%26%20principles/" class="btn btn-dark text-white btn-lg btn-block">Start an in-depth training on the Discover stage....</a>
+<a href="https://fairbydesign-ucph.github.io/FAIR-By-Design_Book-UCPH/4%20-%20FAIR-by-design%20learning%20materials%20creation/4.1%20-%20Workflow%20stages%20description/412-discover/" class="btn btn-dark text-white btn-lg btn-block">FAIR-by-Design Methodology: Discover stage....</a>
