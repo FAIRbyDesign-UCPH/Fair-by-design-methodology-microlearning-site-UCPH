@@ -15,8 +15,6 @@ hide:
 
 # Stage 1 - Prepare
 
-!!! quote ""
-
     Before anything else, preparation is the key to success! -- *Alexander Graham Bell*
 
 ## First things first. What is FAIR?
